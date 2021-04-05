@@ -4,7 +4,6 @@ certs/
 data*/
 init.mn/
 logs*/
-acme.*ini
 acme.mn
 acme.asn
 
